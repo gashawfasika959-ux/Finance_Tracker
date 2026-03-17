@@ -24,3 +24,8 @@ A **simple yet powerful web application** to track personal income and expenses.
 ---
 
 ## 📂 Project Structure
+finance-tracker/
+├── index.html # Main HTML page
+├── style.css # Styling
+├── script.js # JavaScript logic
+└── README.md # Project documentation
