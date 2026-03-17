@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+input, select, button {
+  margin: 5px;
+  padding: 8px;
+}
+
+ul {
+  list-style: none;
+}
